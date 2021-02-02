@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T08:28:37.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="ej1ZvTmYp38PQM3mY4PC" version="14.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-02T08:31:28.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="sTvLceNm6NIO99M-dgDS" version="14.2.9" type="github">
   <diagram id="M7yacTXkXOKkOq2YIxsB" name="Page-1">
     <mxGraphModel dx="539" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="3ulOLOkJviCqpJfqKrgG-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
           <mxGeometry x="300" y="180" width="200" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="3ulOLOkJviCqpJfqKrgG-8" value="Parcheggio Roma Termini (2km)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-8" value="&lt;i&gt;Parcheggio Roma Termini (2km)&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="260" width="185" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3ulOLOkJviCqpJfqKrgG-9" value="&amp;nbsp;Colosseo parking (10 km)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-9" value="&lt;i&gt;&amp;nbsp;Colosseo parking (10 km)&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="300" y="360" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3ulOLOkJviCqpJfqKrgG-10" value="&amp;nbsp;Piazza di Spagna Park (16 km)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-10" value="&lt;i&gt;&amp;nbsp;Piazza di Spagna Park (16 km)&lt;/i&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="305" y="450" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3ulOLOkJviCqpJfqKrgG-11" value="&lt;u&gt;2€ ad ora, via Garibaldi 8&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
