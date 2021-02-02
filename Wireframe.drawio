@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T07:17:17.969Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" version="14.2.9" etag="m2efilwBCNW1rmkaISty" type="github"><diagram id="M7yacTXkXOKkOq2YIxsB">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-02T07:29:21.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="VgPK73fxXk2NEU0BOQeH" version="14.2.9" type="github">
+  <diagram id="M7yacTXkXOKkOq2YIxsB" name="Page-1">
+    <mxGraphModel dx="539" dy="509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="180" width="200" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-8" value="Parcheggio Roma termini" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="260" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-9" value="&amp;nbsp;Colosseo parking" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="340" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-10" value="Parcheggio Piazza di Spagna" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-11" value="2€ ad ora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="280" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-12" value="4,50€ ad ora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-13" value="3€ ad ora" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="440" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-14" value="&lt;b&gt;posti disponibili: 34&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="300" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-15" value="&lt;b&gt;posti disponibili: 71&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="380" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-16" value="&lt;b&gt;posti disponibili: 12&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="460" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-19" value="" style="endArrow=none;html=1;exitX=0.026;exitY=0.396;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.981;entryY=0.394;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3ulOLOkJviCqpJfqKrgG-1" target="3ulOLOkJviCqpJfqKrgG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="320" as="sourcePoint" />
+            <mxPoint x="430" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-20" value="" style="endArrow=none;html=1;exitX=0.039;exitY=0.596;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.971;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3ulOLOkJviCqpJfqKrgG-1" target="3ulOLOkJviCqpJfqKrgG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="300" as="sourcePoint" />
+            <mxPoint x="430" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-22" value="&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-23" value="&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="460" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3ulOLOkJviCqpJfqKrgG-25" value="" style="endArrow=none;html=1;entryX=0.967;entryY=0.157;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="3ulOLOkJviCqpJfqKrgG-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="309" y="241" as="sourcePoint" />
+            <mxPoint x="430" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
