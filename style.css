@@ -33,3 +33,7 @@ body{
 .price{
   text-decoration: underline;
 }
+
+.location{
+  font-style: italic;
+}
